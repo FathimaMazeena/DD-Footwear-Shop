@@ -1,0 +1,2 @@
+# DD-Footwear-Shop
+The DD Footwear Shop Website is a full-stack web application developed as part of the Service-Oriented Computing module assignment. This project explores the implementation of service-oriented architecture using REST APIs, providing a robust platform for users to browse products, place orders, and interact with shop services online. The application features a React-based front end, a Microsoft SQL Server database, and a robust back end built with ASP.NET.
